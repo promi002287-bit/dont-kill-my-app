@@ -1,8 +1,9 @@
----
+control + shift +m 
 manufacturer: 
     - oppo
-
----
+tab
+ecs
+tab
 
 ## Oppo F1S
 
